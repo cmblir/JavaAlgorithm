@@ -1,4 +1,4 @@
-package chapter;
+package N2;
 
 public class InsertionSort {
 

@@ -1,4 +1,4 @@
-package chapter;
+package logN;
 
 public class BinarySearchProblem {
 

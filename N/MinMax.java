@@ -1,3 +1,5 @@
+package N;
+
 // O(n)
 public class MinMaxProblem {
 
